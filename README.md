@@ -44,9 +44,10 @@ A hybrid Reddit post search engine comparing traditional keyword search (PyLucen
    ```bash
    git clone https://github.com/RanjithaNarasimhamurthy/RedditSearchEngineWebApp.git
    cd RedditSearchEngineWebApp
-   
+
+ 
 ## Install dependencies
-   ```bash
+
 pip install -r requirements.txt
 
 ## Run data collection & indexing
