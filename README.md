@@ -54,10 +54,13 @@ pip install -r requirements.txt
 
 
 python crawler.py           # Fetches Reddit posts/comments
+
 python index_lucene.py      # Builds the PyLucene index
+
 python index_faiss.py       # Builds the FAISS index with BERT embeddings
 
 ## Start the web app
 
 flask run
+
 Open http://localhost:5000 in your browser
